@@ -1,0 +1,30 @@
+*
+{ margin: 0px;
+  box-sizing: border-box;
+}
+
+body
+{
+  margin-top:0px;
+  margin-bottom: 0px;
+  display: flex;
+}
+
+img{
+  width: 130%;
+  height: 13%;
+}
+
+
+.side-nav{
+    width: 23%;
+    height: 100%;
+    background-color: rgb(255, 136, 176);
+}
+
+.middle{
+  display: flex;
+  padding:10%  ;
+  font-family:'Courier New', Courier, monospace;
+  font-size: 25px;
+}
